@@ -1,0 +1,33 @@
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color:#F4AFAB ;
+    color:#BF4342;
+}
+body{
+    background-color: antiquewhite;
+}
+h1{
+    font-weight: bold;
+    font-style:italic;
+    font-size: 20px;
+}
+h4{
+    font-weight:lighter;
+    font-style:oblique;
+}
+#image1, #image2, #image3{
+width: 80px;;
+border-radius: 20px;
+box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+}
+img:hover{
+    border-radius: 140px;
+}
+#camera{
+    border-color:aliceblue;
+    width: 500px;
+    height: 500px;
+}
